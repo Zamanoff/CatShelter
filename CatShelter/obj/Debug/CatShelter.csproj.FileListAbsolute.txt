@@ -1,0 +1,7 @@
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\bin\Debug\CatShelter.exe.config
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\bin\Debug\CatShelter.exe
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\bin\Debug\CatShelter.pdb
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\obj\Debug\CatShelter.csprojAssemblyReference.cache
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\obj\Debug\CatShelter.csproj.CoreCompileInputs.cache
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\obj\Debug\CatShelter.exe
+c:\users\zama_uq57\source\repos\CatShelter\CatShelter\obj\Debug\CatShelter.pdb
